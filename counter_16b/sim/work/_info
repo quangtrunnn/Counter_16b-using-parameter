@@ -1,0 +1,86 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 d/ictc/student_data/quangtrung/09_ss9/counter_16b/sim
+T_opt
+!s110 1750689300
+VPRVg_WFR6?<m`<[L>k@9G1
+04 10 4 work test_bench fast 0
+=1-bc2411fb702e-68596613-e97e-225b54
+R1
+!s12b OEM100
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work -debugdb +acc
+Z3 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+R2
+vcounter
+Z4 2../rtl/counter.v|../tb/test_bench.v
+Z5 !s110 1752758999
+!i10b 1
+!s100 GnSH93i@dOcJo26aZU8DU0
+I6FGV[Kj76;=6l9nRY479`1
+R2
+w1750689288
+8../rtl/counter.v
+F../rtl/counter.v
+!i122 23
+L0 1 27
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z8 !s108 1752758998.000000
+!s107 ../tb/test_bench.v|../rtl/counter.v|
+Z9 !s90 -f|compile.f|
+!i113 0
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vtest_bench
+R4
+R5
+!i10b 1
+!s100 loP58@=4FfNNz18EdYB6;1
+IMJX:jF3[3zTBM=AB8WgS=2
+R2
+w1750689091
+8../tb/test_bench.v
+F../tb/test_bench.v
+!i122 23
+L0 4 163
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 ../tb/test_bench.v|../rtl/counter.v|
+R9
+!i113 0
+R10
+R3
